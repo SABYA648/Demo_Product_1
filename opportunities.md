@@ -3,6 +3,86 @@
 
 ---
 
+## 🔥 IMMEDIATE ACTION REQUIRED
+
+### 1. OneSpotAI — Product Strategy Consultant (Contract/Freelance)
+- **URL:** https://in.linkedin.com/jobs/view/product-strategy-consultant-contract-freelance-remote-at-onespotai-4437985583
+- **Location:** Bengaluru (Remote possible)
+- **Type:** Contract / Freelance
+- **Role:** Shape AI product direction, validate ideas, market research, positioning, go-to-market
+- **Why Sabya is perfect:** 6 production AI systems, IIM Indore PM, voice/CV/NLP experience
+- **Action:** Apply via LinkedIn immediately. Customize resume for AI product strategy.
+- **Expected Value:** ₹50,000–1,50,000/month retainer potential
+- **Priority:** 🔥🔥🔥 HIGHEST
+
+---
+
+## YC AI Startups in India (28 Companies) — Outreach Targets
+
+| Company | Batch | Focus | Employees | Location | Service Fit | Priority |
+|---------|-------|-------|-----------|----------|-------------|----------|
+| **Bolna AI** | F2025 | Voice AI orchestration for Indian enterprises | 21 | Bengaluru | 🎯 EXACT match for Voice Agent service | 🔥🔥🔥 |
+| **Peoplebox.ai** | S2022 | AI talent platform with voice/video AI (Nova) | 35 | Bengaluru | 🎯 AI Assistant / Voice Agent | 🔥🔥🔥 |
+| **Truffle AI** | W2025 | AI agents as APIs for developers | 2 | Bengaluru | 🎯 Internal AI Assistant / Dev tools | 🔥🔥 |
+| **Perseus** | F2025 | Coding agents, codebase context search | 4 | Bengaluru | 🎯 AI PM / Feature Prioritization | 🔥🔥 |
+| **Landeed** | S2022 | AI-native property intelligence | 35 | Hyderabad | 🎯 Workflow Automation / Document AI | 🔥🔥 |
+| **InferEdge** | W2022 | Agentic AI for finance (buy-side) | 20 | Mumbai | 🎯 AI PM / Risk Intelligence | 🔥🔥 |
+| **Raven** | S2022 | AI assistants for manufacturing | 4 | Bengaluru | 🎯 AI Voice Agent / Internal Assistant | 🔥🔥 |
+| **Flux Auto** | W2021 | Physical AI for warehouses | 56 | Bengaluru | 🎯 AI PM / Edge CV | 🔥 |
+| **Frekil** | P2025 | Real world evidence for life sciences | 2 | Bengaluru | 🎯 AI PM / Data pipeline | 🔥 |
+| **CORE** | S2023 | AI personal assistant (open source) | 3 | Bengaluru | 🎯 AI Assistant / PM consulting | 🔥 |
+| **SuperKalam** | W2023 | AI personalized learning | 20 | Bengaluru | 🎯 AI PM / EdTech | 🔥 |
+| **Craze** | S2022 | AI agent marketplace | 10 | Mumbai | 🎯 AI PM / Prioritization | 🔥 |
+| **Neodocs** | S2021 | Instant lab tests on smartphone | 20 | Mumbai | 🎯 AI PM / HealthTech | 🔥 |
+| **BusinessOnBot** | W2021 | WhatsApp commerce for D2C | 25 | Bengaluru | 🎯 Workflow Automation / Voice | 🔥 |
+| **SalaryBox** | S2021 | Payroll app for small business | 40 | Gurugram | 🎯 AI Assistant / Automation | 🔥 |
+| **UrbanKisaan** | W2020 | AI-for-plant-biology | 53 | Hyderabad | 🎯 AI PM / AgriTech | Medium |
+| **HelloVerify** | W2018 | Background checks with AI | 600 | Noida | 🎯 AI PM / Scale | Medium |
+| **Spark Studio** | S2021 | AI English tutor for kids | 27 | Bengaluru | 🎯 AI PM / EdTech | Medium |
+| **Scribe** | W2017 | AI sales assistant | 15 | Bengaluru | 🎯 Voice Agent / Sales AI | Medium |
+
+### Top 5 Outreach Targets (This Week)
+
+1. **Bolna AI** — Voice AI for Indian enterprises. You built a voice agent handling 40K leads/month. You understand Hinglish, Indian accents, enterprise scale. Reach out to the founder offering a "Voice AI Architecture Review" (discovery workshop).
+
+2. **Peoplebox.ai** — They have Nova, an AI teammate for voice/video calls. You have production voice AI experience. Offer to review their voice agent architecture or help prioritize their AI roadmap.
+
+3. **Truffle AI** — 2-person team building AI agents as APIs. Perfect for a Feature Prioritization Sprint. They need to figure out which agent use cases to build first.
+
+4. **Perseus** — 4-person team, coding agents. They need product direction on which developer pain points to solve first. Feature Sprint is perfect.
+
+5. **Landeed** — 35-person team, AI property intelligence. They likely have internal knowledge management challenges across 24 states. AI Internal Assistant fits.
+
+---
+
+## YC W25 Indian Startups (15 Companies)
+
+**Source:** https://daily.rakrisi.com/news/yc-india-startups-w25-batch/
+
+Notable standouts:
+- **Krutrim Labs** — Foundational AI infrastructure for Indic languages
+- **Docsumo** — Vision LLMs for document workflow automation
+- **Jodo** — Embedded fintech for education
+- **String Bio** — Climate-tech, methane to proteins
+
+All 15 are AI-first. All need product strategy as they head to Demo Day.
+
+**Action:** Find the 15 on LinkedIn, identify founders, send personalized outreach.
+
+---
+
+## YC S25 Batch (153 Startups, 80%+ AI)
+
+**Source:** https://sameernanda.com/yc-s25-batch-analysis-ai-agents-2025/
+
+- 153 startups analyzed
+- 80%+ AI-focused
+- 1/3 building autonomous agents
+
+**Action:** This is a goldmine. The S25 batch just started. They need everything: PM, AI architecture, prioritization, internal tools. Reach out to Indian founders in this batch first.
+
+---
+
 ## From Hacker News Show HN (2026-07-12)
 
 These are founders who just launched products. They're in build mode and may need:
@@ -22,18 +102,6 @@ These are founders who just launched products. They're in build mode and may nee
 | 8 | **18 Words** — Word game | pompomsheep | 18words.com | LOW — Consumer game, not B2B | Skip | Low |
 | 9 | **Earth Game** — Life goals as quests | modinfo | github.com/skorotkiewicz/earth-game | LOW — Consumer app | Skip | Low |
 | 10 | **Analog Watch** — Simple watch | ezekg | analog.watch | LOW — Consumer hardware | Skip | Low |
-
----
-
-## YC W25 Batch (Winter 2025) — Indian/AI-Relevant Startups
-
-**Source:** https://www.ycombinator.com/companies?batch=W25
-
-I need to manually research this. The YC directory is loaded but I can't extract the full list. I'll need to search for specific Indian companies or AI companies from W25.
-
-**Known Indian YC companies to research:**
-- Search for "YC W25 India" or "YC W25 AI" to find relevant companies
-- Focus on: SaaS, AI tools, developer tools, marketplaces
 
 ---
 
@@ -102,12 +170,10 @@ Search queries to run daily:
 |----------|-----|-------|--------|
 | Topmate | topmate.io | 1:1 consultations | ✅ Already have profile. Create AI consulting package. |
 | Toptal | toptal.com | Elite freelancers | Apply as AI PM. High barrier but high rates. |
-| Gun.io | gun.io | Senior devs | Less relevant for PM work. Skip. |
 | Braintrust | braintrust.com | Web3 + AI | Create profile, highlight AI PM + production systems. |
 | Turing | turing.com | Remote devs | Apply as AI consultant. |
 | Flexiple | flexiple.com | Indian freelancers | Create profile, focus on AI automation. |
-| Upwork | upwork.com | General freelance | Create profile, but focus on high-value proposals only. |
-| Lemon.io | lemon.io | vetted devs | Less PM-focused. Skip. |
+| Upwork | upwork.com | General freelance | Create profile, focus on high-value proposals only. |
 | Arc.dev | arc.dev | Remote jobs | Set alerts for "AI Product Manager" and "AI Consultant." |
 | Wellfound (AngelList) | wellfound.com | Startup jobs | Set alerts for contract AI PM roles. |
 
