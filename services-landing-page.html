@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Product Services — Sabyasachi Mishra</title>
+<style>
+:root{--bg:#0a0a0a;--surface:#111;--text:#f0f0f0;--muted:#888;--accent:#ff3b3b;--accent2:#3b82f6;--border:#222}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+.container{max-width:960px;margin:0 auto;padding:0 24px}
+header{padding:48px 0 24px;border-bottom:1px solid var(--border)}
+header h1{font-size:2rem;font-weight:700;letter-spacing:-0.5px}
+header p{color:var(--muted);margin-top:8px;font-size:1.05rem}
+.badge{display:inline-block;background:var(--accent);color:#fff;padding:4px 12px;border-radius:4px;font-size:0.75rem;font-weight:600;text-transform:uppercase;margin-bottom:16px}
+nav{margin-top:24px;display:flex;gap:24px;flex-wrap:wrap}
+nav a{color:var(--muted);text-decoration:none;font-size:0.9rem;font-weight:500;transition:color 0.2s}
+nav a:hover{color:var(--text)}
+section{padding:48px 0;border-bottom:1px solid var(--border)}
+section:last-child{border-bottom:none}
+h2{font-size:1.5rem;font-weight:700;margin-bottom:16px;letter-spacing:-0.3px}
+h3{font-size:1.1rem;font-weight:600;margin:24px 0 8px;color:var(--text)}
+.lead{font-size:1.15rem;color:var(--muted);max-width:640px}
+.services-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin-top:32px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:28px;transition:transform 0.2s,border-color 0.2s}
+.card:hover{transform:translateY(-2px);border-color:var(--accent)}
+.card h3{margin-top:0;margin-bottom:8px;font-size:1.15rem}
+.card .price{font-size:1.35rem;font-weight:700;color:var(--accent);margin:12px 0}
+.card .timeline{font-size:0.85rem;color:var(--muted);margin-bottom:12px}
+.card ul{list-style:none;margin:12px 0;padding:0}
+.card ul li{padding:4px 0;color:var(--muted);font-size:0.9rem}
+.card ul li::before{content:"✓";color:var(--accent2);margin-right:8px;font-weight:700}
+.card .cta{display:inline-block;margin-top:16px;background:var(--accent);color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.9rem;transition:opacity 0.2s}
+.card .cta:hover{opacity:0.9}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:24px;margin-top:32px}
+.stat{text-align:center}
+.stat .num{font-size:2rem;font-weight:700;color:var(--accent)}
+.stat .label{font-size:0.85rem;color:var(--muted);margin-top:4px}
+.process{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-top:24px}
+.step{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:20px}
+.step .num{font-size:0.75rem;color:var(--accent);font-weight:700;margin-bottom:8px}
+.step strong{display:block;margin-bottom:4px}
+.step p{font-size:0.85rem;color:var(--muted)}
+.testimonial{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:28px;margin-top:24px}
+.testimonial blockquote{font-size:1.05rem;font-style:italic;color:#ccc;margin-bottom:16px}
+.testimonial cite{color:var(--muted);font-size:0.9rem;font-style:normal}
+.testimonial cite strong{color:var(--text)}
+.contact{margin-top:32px}
+.contact a{display:inline-block;margin:8px 8px 0 0;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.9rem}
+.contact .primary{background:var(--accent);color:#fff}
+.contact .secondary{background:var(--surface);color:var(--text);border:1px solid var(--border)}
+footer{padding:32px 0;text-align:center;color:var(--muted);font-size:0.85rem;border-top:1px solid var(--border);margin-top:32px}
+@media (max-width:640px){header h1{font-size:1.5rem}.card{padding:20px}}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+<span class="badge">Open for Projects</span>
+<h1>AI Product Consultant</h1>
+<p>I build production AI systems that ship. Not prototypes. Not demos. Real systems that handle real users and real money.</p>
+<nav>
+<a href="#services">Services</a>
+<a href="#process">Process</a>
+<a href="#proof">Proof</a>
+<a href="#contact">Contact</a>
+</nav>
+</header>
+
+<section id="services">
+<h2>Productized Services</h2>
+<p class="lead">Fixed price. Fixed timeline. No scope creep. No hourly billing. You know exactly what you pay and exactly what you get.</p>
+
+<div class="services-grid">
+
+<div class="card">
+<h3>AI Internal Assistant</h3>
+<p style="color:var(--muted);font-size:0.9rem">Slack/Teams bot that answers from your docs, wiki, and knowledge base. Cut "where is the...?" messages by 80%.</p>
+<div class="price">₹75,000 – ₹1,50,000</div>
+<div class="timeline">5–10 days</div>
+<ul>
+<li>Single or multi-channel integration</li>
+<li>Up to 5 knowledge sources</li>
+<li>Admin dashboard with analytics</li>
+<li>PII-aware responses</li>
+<li>30-day support included</li>
+</ul>
+<a href="#contact" class="cta">Book a Call</a>
+</div>
+
+<div class="card">
+<h3>AI Feature Prioritization Sprint</h3>
+<p style="color:var(--muted);font-size:0.9rem">3-day sprint to turn your messy backlog into a data-driven roadmap. Kill the vanity features. Double down on revenue movers.</p>
+<div class="price">₹50,000 flat</div>
+<div class="timeline">3 days</div>
+<ul>
+<li>RICE scoring of up to 20 features</li>
+<li>MoSCoW prioritization</li>
+<li>SWOT and risk analysis</li>
+<li>90-day roadmap</li>
+<li>FeatureFit tool (lifetime access)</li>
+</ul>
+<a href="#contact" class="cta">Book a Call</a>
+</div>
+
+<div class="card">
+<h3>AI Voice Agent Pilot</h3>
+<p style="color:var(--muted);font-size:0.9rem">Real-time voice agent with Hinglish/English support and human handoff. For companies handling 1000+ calls/month.</p>
+<div class="price">₹2,00,000 – ₹3,00,000</div>
+<div class="timeline">10–14 days</div>
+<ul>
+<li>Single use case (booking/qualification)</li>
+<li>Hinglish + English code-switching</li>
+<li>65% confidence human handoff</li>
+<li>Call analytics and transcription</li>
+<li>30-day support + performance guarantee</li>
+</ul>
+<a href="#contact" class="cta">Book a Call</a>
+</div>
+
+<div class="card">
+<h3>AI Workflow Automation</h3>
+<p style="color:var(--muted);font-size:0.9rem">Automate the repetitive ops work that eats 20+ hours/week. Lead routing, report generation, data entry.</p>
+<div class="price">₹50,000 – ₹1,50,000</div>
+<div class="timeline">3–7 days</div>
+<ul>
+<li>Process audit and mapping</li>
+<li>n8n/Zapier/Make automation</li>
+<li>Custom AI integrations</li>
+<li>Error handling and alerts</li>
+<li>Documentation and handoff</li>
+</ul>
+<a href="#contact" class="cta">Book a Call</a>
+</div>
+
+</div>
+</section>
+
+<section id="proof">
+<h2>Proof</h2>
+
+<div class="stats">
+<div class="stat">
+<div class="num">6</div>
+<div class="label">Production AI Systems<br>Shipped in 8 Months</div>
+</div>
+<div class="stat">
+<div class="num">40K</div>
+<div class="label">Leads/Month<br>Handled by AI Voice</div>
+</div>
+<div class="stat">
+<div class="num">48×</div>
+<div class="label">Faster Audit Cycle<br>with VLM Pipeline</div>
+</div>
+<div class="stat">
+<div class="num">85%</div>
+<div class="label">Document Parsing<br>Automated with NLP</div>
+</div>
+</div>
+
+<div class="testimonial">
+<blockquote>"I was building features because I was afraid of saying no. The prioritization sprint gave me permission to kill half my backlog and double down on what matters."</blockquote>
+<cite><strong>Series A SaaS Founder</strong> — 12-person team, 34 features in backlog</cite>
+</div>
+
+<div class="testimonial">
+<blockquote>"The voice agent handles 60% of our Hindi-English mixed calls without human intervention. Our response time went from 4 hours to immediate."</blockquote>
+<cite><strong>Head of Operations</strong> — B2C company, 70K leads/month</cite>
+</div>
+</section>
+
+<section id="process">
+<h2>How It Works</h2>
+<div class="process">
+<div class="step">
+<div class="num">STEP 01</div>
+<strong>15-Min Discovery Call</strong>
+<p>You tell me the pain point. I tell you if I can fix it and what it costs. No pitch. No pressure.</p>
+</div>
+<div class="step">
+<div class="num">STEP 02</div>
+<strong>Sign + Pay</strong>
+<p>Simple 1-page agreement. 50% upfront. Fixed price, fixed timeline, fixed scope.</p>
+</div>
+<div class="step">
+<div class="num">STEP 03</div>
+<strong>I Build</strong>
+<p>You get daily updates. No black boxes. You see progress in real time.</p>
+</div>
+<div class="step">
+<div class="num">STEP 04</div>
+<strong>Deploy + Handoff</strong>
+<p>System goes live. 30-minute training video. 30-day support begins.</p>
+</div>
+</div>
+</section>
+
+<section id="contact">
+<h2>Start a Project</h2>
+<p class="lead">I take 2-3 projects per month. Current availability: <strong style="color:var(--accent2)">Open</strong></p>
+
+<div class="contact">
+<a href="mailto:your@email.com" class="primary">Email Me</a>
+<a href="https://linkedin.com/in/sabyasachimishra007" class="secondary">LinkedIn</a>
+<a href="https://sabyasachimishra.in" class="secondary">Portfolio</a>
+<a href="https://topmate.io/sabyasachi_mishra1" class="secondary">Topmate (Paid Consult)</a>
+</div>
+
+<p style="color:var(--muted);margin-top:24px;font-size:0.85rem">Response time: within 24 hours. If I can't help, I'll tell you in the first email and point you to someone who can.</p>
+</section>
+
+<footer>
+<p>Built with intent. No fluff. No hourly billing. Just systems that ship.</p>
+<p style="margin-top:8px">Sabyasachi Mishra — AI Product Consultant — IIM Indore</p>
+</footer>
+
+</div>
+
+</body>
+</html>
